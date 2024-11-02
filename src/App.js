@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Assalomu alaykum
+          Admindan Assalomu alaykum
         </a>
       </header>
     </div>
